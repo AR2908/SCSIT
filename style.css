@@ -100,7 +100,7 @@
 
   .header-title h1,
   .header-title h2 {
-    font-size: 5px;
+    font-size: 8px;
   }
 
   .nav-content {
@@ -500,5 +500,6 @@
   color: #ffffff;
   transform: translateY(-2px);
 }
+
 
 
