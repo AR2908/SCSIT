@@ -39,14 +39,14 @@
 }
 
 .header-title h1 {
-  font-size: 24px;
+  font-size: 25px;
   font-weight: 700;
   color: #161616;
   letter-spacing: 1px;
 }
 
 .header-title h2 {
-  font-size: 22px;
+  font-size: 23px;
   font-weight: 700;
   color: #00549c;
   margin-top: 4px;
@@ -502,6 +502,7 @@
   color: #ffffff;
   transform: translateY(-2px);
 }
+
 
 
 
