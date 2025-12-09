@@ -39,14 +39,14 @@
 }
 
 .header-title h1 {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 700;
   color: #161616;
   letter-spacing: 1px;
 }
 
 .header-title h2 {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
   color: #00549c;
   margin-top: 4px;
@@ -100,9 +100,11 @@
 
   .header-title h1,
   .header-title h2 {
-    font-size: 12px;
+    font-size: 11px;
   }
-
+.nav-links a {
+  font-size:11px
+}
   .nav-content {
     flex-wrap: wrap;
   }
@@ -500,6 +502,7 @@
   color: #ffffff;
   transform: translateY(-2px);
 }
+
 
 
 
