@@ -357,7 +357,7 @@
 /* =============== FOOTER =============== */
 
 .footer {
-  background: #00152d;
+  background: rgba(255, 255, 255, 0.06);
   color: #dfe6f5;
   padding-top: 20px;
   margin-top: 20px;
@@ -572,6 +572,7 @@
   background: #002147;
   color: #ffffff;
 }
+
 
 
 
