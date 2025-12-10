@@ -26,7 +26,7 @@ function startLatestTicker() {
   
   // Admit card countdown
   function startAdmitCountdown() {
-    const targetDate = new Date("2025-12-11T19:00:00").getTime();
+    const targetDate = new Date("2025-12-12T19:00:00").getTime();
   
     const daysEl = document.getElementById("days");
     const hoursEl = document.getElementById("hours");
@@ -70,4 +70,5 @@ function startLatestTicker() {
     startLatestTicker();
     startAdmitCountdown();
   });
+
   
