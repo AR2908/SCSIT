@@ -487,8 +487,9 @@
   max-width: 220px;
   text-align: center;
   padding: 10px 16px;
-  background:  #002147;
-  color: #ffffff;
+  background:  #ffffff;
+  color: #red;
+  border:2px solid red;
   font-size: 20px;
   font-weight: 600;
   text-decoration: none;
@@ -573,6 +574,7 @@
   background: #002147;
   color: #ffffff;
 }
+
 
 
 
