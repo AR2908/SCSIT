@@ -432,6 +432,7 @@
   padding: 14px 12px;
   background: #ffffff;
   color: red;
+  border:1px solid red;
   border-radius: 8px;
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
 }
@@ -572,6 +573,7 @@
   background: #002147;
   color: #ffffff;
 }
+
 
 
 
