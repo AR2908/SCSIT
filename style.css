@@ -488,7 +488,7 @@
   text-align: center;
   padding: 10px 16px;
   background:  #ffffff;
-  color: #red;
+  color: red;
   border:2px solid red;
   font-size: 20px;
   font-weight: 600;
@@ -499,11 +499,11 @@
   transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
-.btn-admit:hover {
+/* .btn-admit:hover {
   background: #4654f6;
   color: #ffffff;
   transform: translateY(-2px);
-}
+} */
 .developer-card {
   max-width: 480px;
   margin: 20px auto 0;
@@ -574,6 +574,7 @@
   background: #002147;
   color: #ffffff;
 }
+
 
 
 
