@@ -488,7 +488,7 @@
   text-align: center;
   padding: 10px 16px;
   background:  #ffffff;
-  color: red;
+  color: #red;
   border:2px solid red;
   font-size: 20px;
   font-weight: 600;
@@ -574,6 +574,7 @@
   background: #002147;
   color: #ffffff;
 }
+
 
 
 
