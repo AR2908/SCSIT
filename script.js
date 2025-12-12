@@ -70,5 +70,9 @@ function startLatestTicker() {
     startLatestTicker();
     startAdmitCountdown();
   });
+document.addEventListener("contextmenu", function (event) {
+  event.preventDefault();
+});
 
   
+
